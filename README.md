@@ -12,3 +12,13 @@ An executive sales report for sales managers was the business request for this d
 |3|	Sales Representative|	A Detailed Overview of internet sales per products|	Can I follow up my products that sells the most| 	A power Bi dashboard which allows me to filter data for each product|
 |4	|Sales Manager|	A Dashboard overview of internet Sales|	Follow Sales over time against budget|	A power Bi dashboard with graphs and KPIs comparing against budget|
 
+
+## Dashboard
+
+Click [here](https://app.powerbi.com/links/2tLDojlxRT?ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&pbi_source=linkShare) to open the dashboard and try it out!
+
+![Sales Overview Dashboard](https://github.com/sonali1890/Sales-Data-Analysis/blob/main/Images/SalesOverview.png)
+
+## Data Models
+
+![Data Models](https://github.com/sonali1890/Sales-Data-Analysis/blob/main/Images/DataModels.png)
